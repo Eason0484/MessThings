@@ -1,0 +1,4 @@
+先输入whereis zsh
+就会显示zsh的路径，一般是 /bin/zsh 然后输入
+chsh -s /bin/zsh 会提示输入密码，然后重新登录就好了～
+同样，如果设置其它的shell，也是类似的做法。

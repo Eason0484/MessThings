@@ -1,0 +1,7 @@
+插件安装及配置
+由于安装插件需要一些工具如 rg、fzf 等，我们提前在 d 盘根目录下新建 bin 文件夹，并将 D:\bin 文件夹添加到系统环境变量中
+https://blog.csdn.net/was172/article/details/90326173
+<leader>+<leader>+i安装插件
+
+gvim_vimrc.txt请改名为_vimrc作为gVim配置文件
+vimrc.vimrc请改名为.vimrc作为Vim配置文件

@@ -1,0 +1,4 @@
+下载zsh
+从github或gitee上下载oh-my-zsh源码文件夹并将文件夹重命名为.oh-my-zsh放到家目录下，将vimrc.vimrc重命名为.vimrc放到家目录下。其中.zshrc是配置文件
+输入whereis zsh获取zsh的位置
+chsh -s +zsh位置即可设置默认shell为zsh
