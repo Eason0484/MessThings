@@ -15,7 +15,7 @@
 16. RAMMap
 17. Snipaste
 18. SpaceSniffer
-19. Typora
+19. Markdown工具：Joplin或Zettlr
 20. Uninstall Tool
 21. 香蕉加速
 22. 多快加速器
