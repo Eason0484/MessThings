@@ -42,3 +42,4 @@
 44. 福昕阅读器
 45. Fiddler
 48. Steam++
+49. Xshell

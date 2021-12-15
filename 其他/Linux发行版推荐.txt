@@ -1,3 +1,9 @@
+Debian(推荐)
 Archlinux
-Debian
 openSUSE
+SUSE Linux Enterprise
+Ubuntu
+Ubuntu Server
+Fedora
+Slackware
+Mageia
