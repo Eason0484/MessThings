@@ -6,4 +6,5 @@ Ubuntu
 Ubuntu Server
 Fedora
 Slackware
+Gentoo
 Mageia
