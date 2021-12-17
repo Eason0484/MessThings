@@ -3,7 +3,6 @@ Archlinux
 openSUSE
 SUSE Linux Enterprise
 Ubuntu
-Ubuntu Server
 Fedora
 Slackware
 Gentoo
