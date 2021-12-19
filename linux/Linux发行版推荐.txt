@@ -1,4 +1,4 @@
-Debian
+Debian（推荐）
 Archlinux
 openSUSE
 SUSE Linux Enterprise
