@@ -44,3 +44,4 @@
 48. Steam++
 49. Xshell
 50. 阿里云盘
+51. Krusader（linux文件管理器）
