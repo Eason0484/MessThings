@@ -1,5 +1,5 @@
-Debian（推荐）
-Archlinux
+Archlinux（推荐）
+Debian
 openSUSE
 SUSE Linux Enterprise
 Ubuntu
