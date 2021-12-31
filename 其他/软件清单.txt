@@ -45,3 +45,4 @@
 49. Xshell
 50. 阿里云盘
 51. Ranger（linux文件管理器）
+52. HMCL or PCL2（Minecraft启动器）
