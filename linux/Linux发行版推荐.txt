@@ -1,6 +1,6 @@
 Ubuntu（推荐）
-Red Hat Enterprise Linux（RHEL：https://developers.redhat.com/rhel8）
 Ubuntu Server
+Red Hat Enterprise Linux（RHEL：https://developers.redhat.com/rhel8）
 Debian
 Archlinux
 openSUSE
@@ -11,3 +11,4 @@ Gentoo
 Mageia
 Manjaro
 Pop!_OS
+Oracle Linux
