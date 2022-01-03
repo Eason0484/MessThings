@@ -1,6 +1,6 @@
-Debian（推荐）
-Ubuntu
+Ubuntu（推荐）
 Ubuntu Server
+Debian
 Red Hat Enterprise Linux（RHEL：https://developers.redhat.com/rhel8）
 Archlinux
 openSUSE

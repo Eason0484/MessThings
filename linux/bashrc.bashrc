@@ -1,7 +1,11 @@
+alias sudo='sudo '
+alias na="nautilus"
+alias kr="krusader"
 #
 # ~/.bashrc
 #
-export EDITOR=vim
+export EDITOR="vim"
+export LANG="zh_CN.UTF-8"
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
