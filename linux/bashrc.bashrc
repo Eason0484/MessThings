@@ -1,4 +1,4 @@
-alias sd="sudo shutdown -h now"
+alias sd="shutdown -h now"
 alias ra="ranger"
 alias sudo='sudo '
 alias na="nautilus"
