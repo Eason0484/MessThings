@@ -1,3 +1,4 @@
+alias ra="ranger"
 alias sudo='sudo '
 alias na="nautilus"
 alias kr="krusader"

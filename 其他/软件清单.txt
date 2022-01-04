@@ -44,5 +44,5 @@
 48. Steam++
 49. Xshell
 50. 阿里云盘
-51. Ranger or Krusader（linux文件管理器）
+51. Ranger or Krusader or Nautilus（linux文件管理器）
 52. HMCL or PCL2（Minecraft启动器）
