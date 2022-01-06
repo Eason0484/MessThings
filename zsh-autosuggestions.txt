@@ -1,0 +1,3 @@
+https://github.com/zsh-users/zsh-autosuggestions
+https://hub.fastgit.org/zsh-users/zsh-autosuggestions
+https://gitee.com/zsh-users/zsh-autosuggestions

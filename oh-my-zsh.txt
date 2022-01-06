@@ -1,0 +1,3 @@
+https://hub.fastgit.org/ohmyzsh/ohmyzsh
+https://github.com/ohmyzsh/ohmyzsh
+https://gitee.com/mirrors/oh-my-zsh

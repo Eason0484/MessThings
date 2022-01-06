@@ -1,0 +1,3 @@
+https://github.com/powerline/fonts
+https://hub.fastgit.org/powerline/fonts
+https://gitee.com/ace_astra/Powerline_fonts

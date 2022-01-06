@@ -1,0 +1,3 @@
+https://github.com/junegunn/vim-plug
+https://hub.fastgit.org/junegunn/vim-plug
+https://gitee.com/lxyoucan/vim-plug
