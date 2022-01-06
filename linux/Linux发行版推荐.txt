@@ -1,10 +1,10 @@
-Ubuntu（推荐）
+Red Hat Enterprise Linux（RHEL：https://developers.redhat.com/rhel8）（推荐）
+Ubuntu
 Ubuntu Server
 Debian
 Rocky Linux（CentOS的替补）
 OpenEuler（华为的基于CentOS的发行版）
 OpenAnolis（阿里云的基于CentOS的发行版）
-Red Hat Enterprise Linux（RHEL：https://developers.redhat.com/rhel8）
 Archlinux
 openSUSE
 SUSE Linux Enterprise
