@@ -1,3 +1,4 @@
+alias md="mkdir"
 alias sn="shutdown -h now"
 alias ra="ranger"
 alias sudo='sudo '
