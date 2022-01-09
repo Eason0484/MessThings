@@ -10,3 +10,7 @@ openSUSE
 SUSE Linux Enterprise
 Mageia
 Oracle Linux（甲骨文的基于RHEL的发行版）
+Manjaro
+Gentoo
+Slackware
+Fedora
