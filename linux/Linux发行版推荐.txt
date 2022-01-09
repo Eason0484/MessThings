@@ -13,3 +13,5 @@ Gentoo
 Slackware
 Fedora
 Mandriva Linux
+ubuntu
+ubuntu Server
