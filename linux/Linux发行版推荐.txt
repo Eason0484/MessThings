@@ -14,3 +14,4 @@ Manjaro
 Gentoo
 Slackware
 Fedora
+Mandriva Linux
