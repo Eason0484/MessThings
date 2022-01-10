@@ -47,3 +47,10 @@
 51. Ranger or Krusader or Nautilus（linux文件管理器）
 52. HMCL or PCL2（Minecraft启动器）
 53. 阿里云
+54. CMManager右键管理
+55. OBS录屏
+56. StartAllBack--Win11美化
+57. Ventoy--启动盘制作工具
+58. 微PE工具箱
+59. Mem Reduct内存清理
+60. 小鱼儿yr系统封装优化设置辅助工具
