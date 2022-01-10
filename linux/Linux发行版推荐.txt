@@ -1,4 +1,4 @@
-Debian
+Debian（推荐）
 Red Hat Enterprise Linux（RHEL：https://developers.redhat.com/rhel8）
 openSUSE
 Oracle Linux（甲骨文的基于RHEL的发行版）
