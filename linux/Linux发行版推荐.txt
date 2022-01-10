@@ -1,4 +1,6 @@
-Debian（推荐）
+ubuntu（推荐）
+ubuntu Server
+Debians
 Red Hat Enterprise Linux（RHEL：https://developers.redhat.com/rhel8）
 openSUSE
 Oracle Linux（甲骨文的基于RHEL的发行版）
@@ -13,5 +15,3 @@ Gentoo
 Slackware
 Fedora
 Mandriva Linux
-ubuntu
-ubuntu Server
