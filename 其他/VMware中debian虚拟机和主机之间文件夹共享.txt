@@ -24,7 +24,7 @@ sudo apt-get install open-vm-tools-desktop
 sudo vmhgfs-fuse .host:/   /mnt/hgfs     (注意格式)
 
 
-7.此时已经成功了，可在 File System 里面 mnt/hgfs 文件夹里找到share_folder
+7.此时已经成功了，可在 File System 里面 /mnt/hgfs 文件夹里找到share_folder
 share_folder文件夹里面的所有文件在主机和虚拟机里可以访问更改！
 您可以实现文件和文字的共享
 
