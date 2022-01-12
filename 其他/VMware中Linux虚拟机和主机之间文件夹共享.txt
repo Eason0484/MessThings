@@ -1,0 +1,47 @@
+注：一般来说，安装Vmware Tools并且设置共享文件夹后就能在虚拟机的/mnt/hgfs中找到共享文件夹
+
+Vmware Workstation 中debian虚拟机和主机之间文件夹共享：
+
+
+1.在虚拟机菜单里，选择“虚拟机”->“安装Vmware Tools”或“重新安装Vmware Tools”
+
+
+2.虚拟机里会出现一个镜像文件，将VMware Tools那个拷贝到虚拟机home里，并解压
+
+
+3.打开终端，进入该目录，用sudo ./vmware-install.pl
+一直选择默认安装（中间提示安装vmware-tools,不用管）
+
+
+4.在vmware workstation 菜单里，选择“虚拟机”->“设置”->“选项”->“共享文件夹”->“总是启用”
+在这里添加主机里面的需要共享的文件夹。（可以专门建立一个文件夹，比如share_folder）
+
+
+5.安装两个东西
+sudo apt-get install open-vm-tools
+sudo apt-get install open-vm-tools-desktop
+
+
+6.挂载文件夹
+sudo vmhgfs-fuse .host:/   /mnt/hgfs     (注意格式)
+
+
+7.此时已经成功了，可在 File System 里面 /mnt/hgfs 文件夹里找到share_folder
+share_folder文件夹里面的所有文件在主机和虚拟机里可以访问更改！
+您可以实现文件和文字的共享
+
+
+8.上述操作完成后，仍不能实现每次开机时自启动本功能
+因此，我们需要写系统文件
+ File System 里
+sudo vim /etc/fstab
+在最后一行添加
+
+
+.host:/  /mnt/hgfs fuse.vmhgfs-fuse allow_others,defaults   0   0
+
+
+9.恭喜您！成功了！
+————————————————
+版权声明：本文为CSDN博主「hasan_joon」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/hasanjoon/article/details/79896806
