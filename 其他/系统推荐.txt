@@ -1,4 +1,6 @@
-Rocky Linux（CentOS的替补）（推荐）
+ubuntu（推荐）
+ubuntu Server
+Rocky Linux（CentOS的替补）
 Debian
 Red Hat Enterprise Linux（RHEL：https://developers.redhat.com/rhel8）
 openSUSE
@@ -20,5 +22,3 @@ Windows Server
 Linux Mint
 ZorinOS
 Pop!_OS
-ubuntu
-ubuntu Server
