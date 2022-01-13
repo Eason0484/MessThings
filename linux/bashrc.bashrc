@@ -1,5 +1,8 @@
 alias md="mkdir"
-alias sn="shutdown -h now"
+# alias sn="shutdown -h now"
+# or alias sn="halt"
+# alias reb="shutdown -r now"
+# or reb="reboot"
 alias ra="ranger"
 alias sudo='sudo '
 alias na="nautilus"
