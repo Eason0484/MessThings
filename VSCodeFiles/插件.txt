@@ -1,0 +1,43 @@
+-Bracket Pair Colorizer //不同颜色标记括号
+-C/C++
+-C/C++ Compile Run
+-C++ Intellisense
+-Chinese (Simplified) Language Pack for Visual Studio Code
+-Code Runner
+-Indent-rainbow //缩进深度显示
+-Native Debug
+-Project Manager //工程管理
+-Tabnine //代码补全
+-Material Icon Theme//文件图标主题
+-One Dark Pro //颜色主题
+-CMake
+-CMake Tools
+-Live Share Audio
+-Live Share
+-GitLens
+-sftp
+-Remote - Containers
+-Remote - SSH
+-Remote - SSH: Editing Configuration Files
+-Remote - WSL
+-Remote Development
+-Bookmarks
+-Google Translate by Hancel.Lin（汉译英&英译汉，alt+shift+T或alt+ctrl+T翻译）
+-Git History
+-CODELF（取变量名）
+-Comment Translate（注释翻译）
+-Better Comments
+-C/C++ Snippets
+-Color Highlight
+-Todo Tree
+-Better C++ Syntax
+-C/C++ Themes
+-GitHub Pull Requests and Issues
+-Doxygen Documentation Generator
+-Better C++ Syntax
+-C/C++ Extension Pack
+-Consolas // 字体
+-QML by Baptist BENOIST
+-QML by Cutetee IT
+-QML Snippets by Thomas Vogelpohl
+Path Intellisense // 路径补全

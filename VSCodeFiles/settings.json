@@ -1,0 +1,122 @@
+{
+    "security.workspace.trust.enabled": false,
+    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
+    "files.trimTrailingWhitespace": true,
+    "git.path": "C:\\msys2\\usr\\bin\\git.exe", //注意
+    "files.autoGuessEncoding": true,
+    "update.enableWindowsBackgroundUpdates": true,
+    "c-cpp-compile-run.c-compiler": "C:\\mingw64\\bin\\gcc.exe", //注意
+    "c-cpp-compile-run.cpp-compiler": "C:\\mingw64\\bin\\g++.exe", //注意
+    "debug.onTaskErrors": "abort",
+    "git.enabled": true,
+    "tabnine.experimentalAutoImports": true,
+    "C_Cpp.intelliSenseUpdateDelay": 500,
+    "C_Cpp.clang_format_fallbackStyle": "WebKit", //c_c++预定义文件格式化样式，需下载c/c++插件
+    "C_Cpp.clang_format_style": "WebKit",
+    "C_Cpp.clang_format_sortIncludes": true,
+    // 编辑器设置
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "off",
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?·～！￥…（）—【】、；：‘’“”，。《》？ ",
+    "editor.minimap.maxColumn": 100,
+    "editor.fontSize": 17,
+    "editor.mouseWheelZoom": false,
+    "editor.renderControlCharacters": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderWhitespace": "all",
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": true,
+    // window
+    "window.zoomLevel": 0,
+    // 文件资源管理
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    // 终端
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    // 文件
+    "files.insertFinalNewline": true,
+    "files.eol": "\n",
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.c": "c"
+    },
+    //工作区设置
+    "workbench.editor.untitled.hint": "hidden",
+    "workbench.sideBar.location": "left",
+    "workbench.iconTheme": "material-icon-theme", //文件图标主题：material-icon-theme，需下载
+    "workbench.colorTheme": "One Dark Pro", //颜色主题（深）：One Dark Pro，需下载；颜色主题（浅）：Monokai Light，需下载
+    "workbench.startupEditor": "none", //启动时显示欢迎页
+    //以上为工作区设置
+    "git.confirmSync": false,
+    "cmake.cmakePath": "C:\\Program Files\\CMake\\bin\\cmake.exe", //cmake.exe路径
+    "cmake.generator": "C:\\Program Files\\CMake\\bin\\cmake.exe", //cmake生成器路径
+    "gitlens.advanced.messages": {
+        "suppressImproperWorkspaceCasingWarning": true
+    },
+    //翻译设置
+    "google-translate.firstLanguage": "zh-cn",
+    "google-translate.secondLanguage": "en",
+    "commentTranslate.targetLanguage": "zh-CN",
+    "commentTranslate.source": "Google",
+    //以上为翻译设置
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "gitlens.currentLine.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.enableSmartCommit": true,
+    "google-translate.switchFunctionTranslation": true,
+    "editor.fontFamily": "Consolas",
+    "scm.inputFontFamily": "Consolas",
+    "debug.console.fontFamily": "Consolas",
+    "terminal.integrated.fontFamily": "Consolas",
+    "errorLens.fontFamily": "Consolas",
+    "editor.inlayHints.fontFamily": "Consolas",
+    "editor.codeLensFontFamily": "Consolas"
+}
