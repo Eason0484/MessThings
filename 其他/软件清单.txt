@@ -57,3 +57,5 @@
 61. LabyMod（MCpvp客户端）
 62. VSCode
 63. FxSound
+64. XMind
+65. Eclipse
