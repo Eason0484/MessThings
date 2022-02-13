@@ -11,8 +11,8 @@
     "git.enabled": true,
     "tabnine.experimentalAutoImports": true,
     "C_Cpp.intelliSenseUpdateDelay": 500,
-    "C_Cpp.clang_format_fallbackStyle": "WebKit", //c_c++预定义文件格式化样式，需下载c/c++插件
-    "C_Cpp.clang_format_style": "WebKit",
+    "C_Cpp.clang_format_fallbackStyle": "Visual Studio", //c_c++预定义文件格式化样式，需下载c/c++插件
+    "C_Cpp.clang_format_style": "Visual Studio",
     "C_Cpp.clang_format_sortIncludes": true,
     // 编辑器设置
     "editor.formatOnSave": true,

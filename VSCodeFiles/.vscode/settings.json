@@ -107,7 +107,8 @@
         "source_location": "cpp",
         "syncstream": "cpp",
         "version": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "xstring": "cpp"
     },
     "cmake.configureOnOpen": false,
 }
