@@ -118,5 +118,6 @@
     "terminal.integrated.fontFamily": "Consolas",
     "errorLens.fontFamily": "Consolas",
     "editor.inlayHints.fontFamily": "Consolas",
-    "editor.codeLensFontFamily": "Consolas"
+    "editor.codeLensFontFamily": "Consolas",
+    "bracketPairColorizer.depreciation-notice": false
 }
