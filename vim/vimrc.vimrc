@@ -81,7 +81,6 @@ set fileencodings=utf8,ucs-bom,gbk,cp936,gb2312,gb18030
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "映射 esc 键为 jj
 inoremap jj <Esc>
-vnoremap jj <Esc>
 "快速打开vim配置文件：.vimrc (<leader>+e)
 nnoremap <leader>e :e ~/.vimrc<cr>
 "刷新配置
@@ -293,8 +292,8 @@ map ' <Plug>(clever-f-repeat-back)
 let g:airline_theme="onedark"
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
-" let g:airline#extensions#tabline#left_sep = ' '   
-" let g:airline#extensions#tabline#left_alt_sep = '|' "tabline中未激活buffer两端的分隔字符      
+" let g:airline#extensions#tabline#left_sep = ' '
+" let g:airline#extensions#tabline#left_alt_sep = '|' "tabline中未激活buffer两端的分隔字符
 if !exists('g:airline_symbols')
     let g:airline_symbols = {}
 endif
@@ -470,4 +469,4 @@ nnoremap <leader>= :Tab /=<cr>
 " 复制增强
 let g:highlightedyank_highlight_duration = 1000
 let g:highlightedyank_highlight_duration = -1
- 
+

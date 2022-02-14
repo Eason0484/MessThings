@@ -86,7 +86,6 @@ set fileencodings=utf8,ucs-bom,gbk,cp936,gb2312,gb18030
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "映射 esc 键为 jj
 inoremap jj <Esc>
-vnoremap jj <Esc>
 "快速打开vim配置文件：.vimrc (<leader>+e)
 nnoremap <leader>e :e ~/.vimrc<cr>
 "刷新配置
