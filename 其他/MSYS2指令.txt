@@ -2,6 +2,10 @@
 pacman -Sy // 同步本地软件数据库
 pacman -Syu+pacman -Su // 顺序输入后可更新MSYS2系统环境
 pacman -S --needed base-devel mingw-w64-x86_64-toolchain // 安装mingw
+pacman -S mingw-w64-x86_64-cmake mingw-w64-x86_64-extra-cmake-modules // 安装mingw
+pacman -S mingw-w64-x86_64-make // 安装mingw
+pacman -S mingw-w64-x86_64-gdb // 安装mingw
+pacman -S mingw-w64-x86_64-toolchain // 安装mingw
 pacman -S vim // 安装vim
 pacman -S git // 安装git
 pacman -S tree // 安装tree（树状图）指令
