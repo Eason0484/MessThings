@@ -1,0 +1,1 @@
+添加环境变量HOME, 值为%USERPROFILE%
