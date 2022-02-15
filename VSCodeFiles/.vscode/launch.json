@@ -13,7 +13,7 @@
             "environment": [],
             "externalConsole": true,
             "MIMode": "gdb",
-            "miDebuggerPath": "D:/MinGW-w64/bin/gdb.exe", // 这里要修改为自己所安装的gdb.exe路径。最后的/gdb.exe无需更改。
+            "miDebuggerPath": "D:/msys64/mingw64/bin/gdb.exe", // 这里要修改为自己所安装的gdb.exe路径。最后的/gdb.exe无需更改。
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",

@@ -1,16 +1,17 @@
 {
     "configurations": [
         {
-            "compilerPath": "D:/MinGW-w64/bin/g++.exe",
+            "compilerPath": "D:/msys64/mingw64/bin/g++.exe",
             "name": "Win32", //根据平台选择
             "includePath": [
                 "${workspaceRoot}", //勿改
-                "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
-                "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
-                "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
-                "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
-                "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
-                "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include", //cmd输入gcc -v -E -x c++ -,#include <...> search starts here后End of search list前的几行
+                "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0",
+                "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32",
+                "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward",
+                "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+                "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include",
+                "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+                "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include", //cmd输入gcc -v -E -x c++ -,#include <...> search starts here后End of search list前的几行
                 "${workspaceFolder}\\include" //工作目录下要有存放头文件的文件夹include，此行勿改
             ],
             "defines": [
@@ -25,12 +26,13 @@
                 "databaseFilename": "",
                 "path": [
                     "${workspaceRoot}", //勿改
-                    "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
-                    "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
-                    "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
-                    "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
-                    "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
-                    "D:/MinGW-w64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include", //cmd输入gcc -v -E -x c++ -,#include <...> search starts here后End of search list前的几行
+                    "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0",
+                    "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32",
+                    "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward",
+                    "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+                    "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include",
+                    "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+                    "D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include", //cmd输入gcc -v -E -x c++ -,#include <...> search starts here后End of search list前的几行
                     "${workspaceFolder}\\include" //工作目录下要有存放头文件的文件夹include，勿改
                 ]
             },

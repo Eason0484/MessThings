@@ -6,7 +6,7 @@
         {
             "type": "shell",
             "label": "g++", //与launch.json的preLaunchTask一致
-            "command": "D:/MinGW-w64/bin/g++.exe", //注意
+            "command": "D:/msys64/mingw64/bin/g++.exe", //注意
             "args": [
                 "-g",
                 "-Wall",
@@ -20,7 +20,7 @@
                 "${workspaceFolder}\\include" //工作目录下要有存放头文件的文件夹include
             ],
             "options": {
-                "cwd": "D:/MinGW-w64/bin" //注意
+                "cwd": "D:/msys64/mingw64/bin" //注意
             },
             "problemMatcher": [
                 "$gcc"
