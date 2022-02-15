@@ -124,8 +124,8 @@ nnoremap <leader><leader>d :bd<cr>
 "<leader><leader>d关闭buffer
 
 " vim-plug
-"在 调用 call plug#begin('~/.config/nvim/plugged') 之前 设置plug_url_format为国内镜像源即可提高插件的下载速度
-let g:plug_url_format='https://git::@hub.fastgit.org/%s.git'
+" 在 调用 call plug#begin('~/.config/nvim/plugged') 之前 设置plug_url_format为国内镜像源即可提高插件的下载速度
+" let g:plug_url_format='https://git::@hub.fastgit.org/%s.git'
 " ******************************BEGIN******************************
 
 call plug#begin('~/.vim/plugged')
