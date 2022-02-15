@@ -2,7 +2,7 @@
     "security.workspace.trust.enabled": false,
     "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
     "files.trimTrailingWhitespace": true,
-    "git.path": "C:\\msys2\\usr\\bin\\git.exe", //注意
+    "git.path": "D:\\Program Files\\Git\\bin\\git.exe", //注意
     "files.autoGuessEncoding": true,
     "update.enableWindowsBackgroundUpdates": true,
     "c-cpp-compile-run.c-compiler": "C:\\mingw64\\bin\\gcc.exe", //注意
