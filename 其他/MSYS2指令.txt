@@ -12,3 +12,4 @@ pacman -S tree // 安装tree（树状图）指令
 pacman -S ctags // 安装ctags
 pacman -S zsh // 安装zsh
 pacman -S python // 安装python
+pacman -S man // 安装命令手册
