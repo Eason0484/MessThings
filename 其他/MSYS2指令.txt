@@ -10,5 +10,9 @@ pacman -S vim // 安装vim
 pacman -S tree // 安装tree（树状图）指令
 pacman -S ctags // 安装ctags
 pacman -S zsh // 安装zsh
-pacman -S man // 安装命令手册
+pacman -S git // 安装git
+pacman -S man help2man man-db man-pages-posix // 安装命令手册
 pacman -S mingw-w64-x86_64-cmake // 安装cmake
+pacman -S mingw-w64-x86_64-clang // 安装clang
+pacman -S mingw-w64-x86_64-llvm // 安装llvm
+pacman -S mingw-w64-x86_64-z3 // 安装z3
