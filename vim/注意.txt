@@ -3,5 +3,8 @@
 https://blog.csdn.net/was172/article/details/90326173
 <leader>+<leader>+i安装插件
 
-gvim_vimrc.txt请改名为_vimrc作为gVim配置文件
+windows下, 设置环境变量HOME, 值为你想要的家目录
+
+gvim_vimrc_for_windows.txt请改名为_vimrc作为windows下的gVim配置文件
+gvim_vimrc_for_linux.txt请改名为_vimrc作为linux下的gVim配置文件
 vimrc.vimrc请改名为.vimrc作为Vim配置文件
