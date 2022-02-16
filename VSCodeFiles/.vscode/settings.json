@@ -108,7 +108,8 @@
         "syncstream": "cpp",
         "version": "cpp",
         "*.tcc": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "typeindex": "cpp"
     },
     "cmake.configureOnOpen": false,
 }
