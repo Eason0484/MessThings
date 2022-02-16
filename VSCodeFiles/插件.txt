@@ -42,3 +42,4 @@
 -QML Snippets by Thomas Vogelpohl
 -Path Intellisense // 路径补全
 -Vim // vim模式
+-shell-format // shell脚本格式化

@@ -1,4 +1,4 @@
-注：在msys2_shell.cmd运行前加入参数-full-path或-use-full-path后可以在msys2控制台中使用Windows环境变量path中的内容
+注：在msys2_shell.cmd运行前加入参数-full-path或-use-full-path后可以在msys2控制台中使用Windows环境变量path中的内容, 参数-shell zsh可以设置默认shell为zsh
 pacman -Sy // 同步本地软件数据库
 pacman -Syu+pacman -Su // 顺序输入后可更新MSYS2系统环境
 pacman -S --needed base-devel mingw-w64-x86_64-toolchain // 安装mingw
