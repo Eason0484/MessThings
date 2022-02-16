@@ -40,4 +40,5 @@
 -QML by Baptist BENOIST
 -QML by Cutetee IT
 -QML Snippets by Thomas Vogelpohl
-Path Intellisense // 路径补全
+-Path Intellisense // 路径补全
+-Vim // vim模式
