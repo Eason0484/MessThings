@@ -44,3 +44,11 @@
 -Vim // vim模式
 -shell-format // shell脚本格式化
 -AutoHotKey // AutoHotKey脚本支持
+-Markdown All in One
+-Markdown Preview Enhanced
+-markdownlint // Markdown语法检查器
+-Markdown Preview Mermaid Support // Markdown绘图工具Mermaid支持
+-Draw.io Integration // VSCode的内嵌Draw.io插件
+-Markdown Preview Github Styling // Github风格的Markdown预览
+-MdTableEditor // Markdown的表格编辑
+-Auto Markdown TOC By AX1 // Markdown的自动章节编号插件
