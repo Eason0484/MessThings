@@ -121,5 +121,8 @@
     "editor.codeLensFontFamily": "Consolas",
     "bracketPairColorizer.depreciation-notice": false,
     "vim.vimrc.enable": true,
-    "vim.vimrc.path": "C:/Users/10836/.vimrc" // 注意此处为.vimrc文件的路径
+    "vim.vimrc.path": "C:/Users/10836/.vimrc", // 注意此处为.vimrc文件的路径
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one" // Markdown格式化程序
+    }
 }
