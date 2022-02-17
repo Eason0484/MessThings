@@ -4,14 +4,12 @@
 5. Dism++
 6. Everything
 7. Foobar2000（推荐中文汉化版）
-8. ffmpeg解码器
 9. git
 10. HEU-KMS-Activator
 11. HotPE
-12. MinGW-w64（推荐https://winlibs.com/下载或官网下载）（注意：mingw64\bin中的mingw32-make.exe文件请复制一份并重命名为make.exe）
+12. MinGW-w64（推荐MSYS2下载或https://winlibs.com/下载或官网下载）（注意：mingw64\bin中的mingw32-make.exe文件请复制一份并重命名为make.exe）
 13. Office Tool
 14. PotPlayer
-15. Qt
 16. RAMMap
 17. Snipaste
 18. SpaceSniffer
@@ -24,8 +22,6 @@
 25. XDM
 26. Captura
 27. 腾讯桌面整理独立版
-30. ACDSee
-32. Visual Studio
 31. Edge浏览器
 32. FireFox火狐浏览器
 33. Google谷歌浏览器
@@ -58,4 +54,4 @@
 62. VSCode
 63. FxSound
 64. XMind
-65. Eclipse
+65. IDEA
