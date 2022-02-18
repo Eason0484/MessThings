@@ -52,3 +52,4 @@
 -MdTableEditor // Markdown的表格编辑
 -Markdown TOC // Markdown的自动章节编号插件
 -Markdown PDF // 导出Markdown为PDF
+-Markdown Shortcuts // Markdown编辑时的快捷指令
