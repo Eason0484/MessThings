@@ -51,5 +51,5 @@
 -Draw.io Integration // VSCode的内嵌Draw.io插件
 -Markdown Preview Github Styling // Github风格的Markdown预览
 -MdTableEditor // Markdown的表格编辑
--Auto Markdown TOC By AX1 // Markdown的自动章节编号插件
+-Markdown TOC // Markdown的自动章节编号插件
 -Markdown PDF // 导出Markdown为PDF
