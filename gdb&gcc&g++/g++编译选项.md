@@ -209,7 +209,7 @@ gcc and g++分别是gnu的c & c++编译器 gcc/g++在执行编译工作的时候
 
 　　可以使用的参数吗有下面的这些
 
-　　`c', `objective-c', `c-header', `c++', `cpp-output', `assembler', and `assembler-with-cpp'.
+　　`c`, `objective-c`, `c-header`, `c++`, `cpp-output`, `assembler`, and `assembler-with-cpp`.
 
 　　看到英文，应该可以理解的。
 
