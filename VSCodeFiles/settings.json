@@ -123,8 +123,8 @@
     "vim.vimrc.enable": true,
     "vim.vimrc.path": "C:/Users/10836/.vimrc", // 注意此处为.vimrc文件的路径
     "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode", // Markdown默认格式化程序
         // 快速补全
-        "editor.defaultFormatter": "yzhang.markdown-all-in-one",
         "editor.quickSuggestions": {
             "other": true,
             "comments": true,
@@ -138,5 +138,8 @@
         // 使用enter 接受提示
         "editor.acceptSuggestionOnEnter": "on"
     },
-    "markdown-preview-enhanced.previewTheme": "github-dark.css" // MPE: Markdown预览样式
+    "markdown-preview-enhanced.previewTheme": "github-dark.css", // MPE: Markdown预览样式
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features" // 默认json文件格式化程序
+    }
 }
