@@ -123,6 +123,19 @@
     "vim.vimrc.enable": true,
     "vim.vimrc.path": "C:/Users/10836/.vimrc", // 注意此处为.vimrc文件的路径
     "[markdown]": {
-        "editor.defaultFormatter": "yzhang.markdown-all-in-one" // Markdown格式化程序
+        // 快速补全
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": true,
+            "strings": true
+        },
+        // 显示空格
+        "editor.renderWhitespace": "all",
+        // snippet 提示优先（看个人喜欢）
+        "editor.snippetSuggestions": "top",
+        "editor.tabCompletion": "on",
+        // 使用enter 接受提示
+        "editor.acceptSuggestionOnEnter": "on"
     }
 }
