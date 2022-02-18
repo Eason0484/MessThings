@@ -45,7 +45,6 @@
 -shell-format // shell脚本格式化
 -AutoHotKey // AutoHotKey脚本支持
 -Markdown All in One
--Markdown Preview Enhanced
 -markdownlint // Markdown语法检查器
 -Markdown Preview Mermaid Support // Markdown绘图工具Mermaid支持
 -Draw.io Integration // VSCode的内嵌Draw.io插件
