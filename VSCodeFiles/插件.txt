@@ -56,3 +56,4 @@
 -Markdown Preview Enhanced(MPE) // Markdown高级预览支持
 -Docs-Markdown // Microsoft文档工具
 -Markdown Editors // Markdown所见即所得模式
+-PicGo // 图床功能 (将图片上传到网络, 写文章必备)
