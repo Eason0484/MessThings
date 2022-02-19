@@ -141,7 +141,5 @@
     "markdown-preview-enhanced.previewTheme": "github-dark.css", // MPE: Markdown预览样式
     "[jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features" // 默认json文件格式化程序
-    },
-    "vscode-office.openOutline": true,
-    "vscode-office.autoTheme": true
+    }
 }
