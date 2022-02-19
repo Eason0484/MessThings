@@ -1,6 +1,6 @@
 {
     "security.workspace.trust.enabled": false,
-    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${appName}",
     "files.trimTrailingWhitespace": true,
     "git.path": "D:\\Program Files\\Git\\bin\\git.exe", //注意
     "files.autoGuessEncoding": true,
