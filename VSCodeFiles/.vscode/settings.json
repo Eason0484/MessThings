@@ -109,7 +109,8 @@
         "version": "cpp",
         "*.tcc": "cpp",
         "xstring": "cpp",
-        "typeindex": "cpp"
+        "typeindex": "cpp",
+        "*.def": "c"
     },
     "cmake.configureOnOpen": false,
 }
