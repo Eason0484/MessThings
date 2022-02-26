@@ -20,7 +20,7 @@
     "editor.wordWrap": "off",
     "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?·～！￥…（）—【】、；：‘’“”，。《》？ ",
     "editor.minimap.maxColumn": 100,
-    "editor.fontSize": 20,
+    "editor.fontSize": 22,
     "editor.mouseWheelZoom": false,
     "editor.renderControlCharacters": true,
     "editor.multiCursorModifier": "ctrlCmd",
