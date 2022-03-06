@@ -1,3 +1,5 @@
+" 使用y键复制的东西直接存到系统剪贴板
+set clipboard=unnamed
 "F1查看帮助文档
 source $VIMRUNTIME/delmenu.vim
 source $VIMRUNTIME/menu.vim
