@@ -1,10 +1,8 @@
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "actions": 
-    [
+    "actions": [
         {
-            "command": 
-            {
+            "command": {
                 "action": "copy",
                 "singleLine": false
             },
@@ -19,8 +17,7 @@
             "keys": "ctrl+shift+f"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "splitPane",
                 "split": "auto",
                 "splitMode": "duplicate"
@@ -30,23 +27,19 @@
     ],
     "copyFormatting": "none",
     "copyOnSelect": false,
-    "defaultProfile": "{526910e8-fea7-43b3-83d8-37cd0ed762be}",
+    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
     "initialCols": 90,
     "initialRows": 27,
-    "profiles": 
-    {
-        "defaults": 
-        {
+    "profiles": {
+        "defaults": {
             "acrylicOpacity": 0.40000000000000002,
-            "font": 
-            {
+            "font": {
                 "face": "DejaVu Sans Mono for Powerline",
                 "size": 16
             },
             "useAcrylic": true
         },
-        "list": 
-        [
+        "list": [
             {
                 "commandline": "powershell.exe",
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
@@ -78,11 +71,18 @@
                 "name": "Zsh",
                 "startingDirectory": "%USERPROFILE%",
                 "tabTitle": "Zsh"
+            },
+            {
+                "colorScheme": "Campbell",
+                "commandline": "wsl.exe -d Ubuntu",
+                "guid": "{37ead6c5-55df-4c07-8bb5-673fce0fe20f}",
+                "icon": "ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png",
+                "name": "Ubuntu",
+                "startingDirectory": "%USERPROFILE%"
             }
         ]
     },
-    "schemes": 
-    [
+    "schemes": [
         {
             "background": "#0C0C0C",
             "black": "#0C0C0C",
