@@ -1,6 +1,6 @@
 ﻿^!x::ExitApp	; Suspend script with Ctrl+Alt+X
 #IfWinActive Minecraft
-F4:: ;Autocreate with easy mode
+F12:: ;Autocreate with easy mode
 Send, `t
 Sleep, 70
 Send, {enter}
@@ -22,7 +22,7 @@ Send, +`t
 Sleep, 70
 Send, {enter}
 return
-F12:: ;close world
+U:: ;close world
 send {Esc}+{Tab}{Enter} 
 return
 f6:: ;Recreate worlds
