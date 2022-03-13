@@ -57,7 +57,7 @@ Send, `t
 Send, `t
 Send, `t
 Sleep, 70
-Send, 2483313382402348964
+Send, -3294725893620991126
 Sleep, 70
 Send, +`t
 Send, +`t
@@ -88,7 +88,7 @@ Send, `t
 Send, `t
 Send, `t
 Sleep, 70
-Send, 2483313382402348964
+Send, -3294725893620991126
 Sleep, 70
 Send, {enter}
 return
