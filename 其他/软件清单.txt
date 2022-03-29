@@ -55,3 +55,4 @@
 63. FxSound
 64. XMind
 65. IDEA
+66. qBittorrent（种子下载）
