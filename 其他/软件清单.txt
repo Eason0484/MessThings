@@ -56,3 +56,4 @@
 64. XMind
 65. IDEA
 66. qBittorrent（种子下载）
+67. 赛风VPN
