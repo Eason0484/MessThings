@@ -57,3 +57,4 @@
 65. IDEA
 66. qBittorrent（种子下载）
 67. 赛风VPN
+68. Bandicam
