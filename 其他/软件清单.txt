@@ -58,3 +58,4 @@
 66. qBittorrent（种子下载）
 67. 赛风VPN
 68. Bandicam
+69. 网易有道词典
