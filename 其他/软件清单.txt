@@ -59,3 +59,9 @@
 67. 赛风VPN
 68. Bandicam
 69. 网易有道词典
+70. LiveSplit
+71. MimeMap
+72. Ninjabrain-bot
+73. Ninjasnail-Timer
+74. CTM's AA Tool
+75. Cubiomes-Viewer
