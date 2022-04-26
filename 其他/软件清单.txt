@@ -20,7 +20,7 @@
 23. Windows10 Manager/Windows11 Manager
 24. Wox
 25. XDM
-26. Captura
+26. Captura（开源视频录制）
 27. 腾讯桌面整理独立版
 31. Edge浏览器
 32. FireFox火狐浏览器
@@ -67,3 +67,5 @@
 75. Cubiomes-Viewer
 76. Shotcut（开源视频剪辑）
 77. GIMP（开源图像编辑）
+78. HandBrake（开源视频压缩）
+79. Aegisub（开源字幕编辑）
