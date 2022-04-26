@@ -65,3 +65,4 @@
 73. Ninjasnail-Timer
 74. CTM's AA Tool
 75. Cubiomes-Viewer
+76. Shotcut（开源视频剪辑）
