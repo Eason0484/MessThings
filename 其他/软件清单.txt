@@ -69,3 +69,4 @@
 77. GIMP（开源图像编辑）
 78. HandBrake（开源视频压缩）
 79. Aegisub（开源字幕编辑）
+80. GeoGebra & Desmos（免费数学绘图软件）
