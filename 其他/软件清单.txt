@@ -70,3 +70,4 @@
 78. HandBrake（开源视频压缩）
 79. Aegisub（开源字幕编辑）
 80. GeoGebra & Desmos（免费数学绘图软件）
+81. Discord & YY & 开黑啦（连麦）
