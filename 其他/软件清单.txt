@@ -72,3 +72,4 @@
 80. GeoGebra & Desmos（免费数学绘图软件）
 81. Discord & YY & 开黑啦（连麦）
 82. MuseScore（免费打谱软件）
+	高级模式：视图--工作区--高级
