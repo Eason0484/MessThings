@@ -14,6 +14,7 @@
 -CMake Tools
 -Live Share Audio
 -Live Share
+-Live Share Extension Pack
 -GitLens
 -sftp
 -Remote - Containers
