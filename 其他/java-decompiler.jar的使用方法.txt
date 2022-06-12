@@ -1,0 +1,12 @@
+这个需要使用命令行cmd进行操作，
+步骤：将java-decompiler.jar放在需要解压的jar包目录下->新建一个文件夹（用于存放反编译后的压缩包）->该目录下打开cmd.exe->输入
+java -cp java-decompiler.jar org.jetbrains.java.decompiler.main.decompiler.ConsoleDecompiler -dgs=true xxx.jar xxx
+保存：运行命令后会在xxx文件夹下面生成一个与原先的jar包同名的文件，加压缩即可；
+说明：
+（1）xxx.jar是需要反编译的jar包的全名
+（2）xxx是新建的文件夹的全名
+（3）如果 java-decompiler.jar与jar包不在同一目录下，则需要 java-decompiler.jar指定路径，比如将上面的java-decompiler.jar改成 “D:\IntelliJ\plugins\java-decompiler\lib\java-decompiler.jar”
+反编译效果比较好，但也有不足，@Override注解没有，需要自己添加，其余的需要结合使用情况了。
+————————————————
+版权声明：本文为CSDN博主「沉迷学习～冲」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_41332719/article/details/115691011

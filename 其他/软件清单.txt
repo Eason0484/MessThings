@@ -54,7 +54,7 @@
 62. VSCode
 63. FxSound
 64. XMind
-65. IDEA
+65. IDEA（自带反编译工具java-decompiler.jar）
 66. qBittorrent（种子下载）
 67. 赛风VPN
 68. Bandicam
