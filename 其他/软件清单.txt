@@ -73,5 +73,7 @@
 81. Discord & YY & 开黑啦（连麦）
 82. MuseScore（免费打谱软件）
 	高级模式：视图--工作区--高级
-	基础模式：视图--工作区--基础（已修改）
+	基础模式：视图--工作区--基础
 83. Visual Studio
+84. Pycharm
+85. Anaconda
