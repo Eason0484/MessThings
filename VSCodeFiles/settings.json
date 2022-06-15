@@ -15,6 +15,7 @@
     "C_Cpp.clang_format_style": "Visual Studio",
     "C_Cpp.clang_format_sortIncludes": true,
     // 编辑器设置
+    "editor.bracketPairColorization.enabled": true, // 括号对着色
     "editor.quickSuggestions": true, // 自动补全
     "editor.formatOnSave": true,
     "editor.wordWrap": "off",

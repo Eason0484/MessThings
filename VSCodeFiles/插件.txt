@@ -1,4 +1,3 @@
--Bracket Pair Colorizer //不同颜色标记括号
 -C/C++
 -C/C++ Compile Run
 -C++ Intellisense
