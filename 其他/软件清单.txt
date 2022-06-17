@@ -77,3 +77,4 @@
 83. Visual Studio
 84. Pycharm
 85. Anaconda
+86. Jupyter Notebook
