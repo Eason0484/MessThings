@@ -54,3 +54,28 @@
 -Markdown Editors // Markdown所见即所得模式
 -PicGo // 图床功能 (将你本地粘贴的图片上传到网络 (所谓的图床), 并给你返回该图片的地址。这样无论你的文章发给谁、发在哪个平台, 只要有网络, 都是能正常访问到这个图片的)
 -vscode-pdf
+-Settings Sync // 设置同步
+-Sort lines // 文本排序
+-Path Autocomplete // 文件路径自动补全
+-filesize // 文件大小显示
+-YAML by Red Hat // yaml语言支持
+-Test Adapter Converter
+-Test Explorer UI
+-Python Extension Pack
+-Python
+-Pylint
+-IntelliCode
+-Django
+-Jinja
+-autoDocstring - Python Docstring Generator
+-Python Indent
+-Python Environment Manager
+-Jupyter
+-Jupyter Keymap
+-Jupyter Notebook Renderers
+-Pylance
+-Python Snippets
+-Python Test Explorer for Visual Studio Code
+-Python Preview
+-Python Type Hint
+-LiveCode for python
