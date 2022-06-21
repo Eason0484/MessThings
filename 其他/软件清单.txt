@@ -79,3 +79,9 @@
 85. Anaconda
 86. Jupyter Notebook
 87. NBTExplorer
+88. Android Debug Bridge（ADB）
+89. WSA Tool Box
+90. FFmpeg
+91. MineMap
+92. Ninjabrain-bot
+93. WePE
