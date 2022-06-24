@@ -1,0 +1,15 @@
+VS:
+	-One Dark Pro
+IntelliJ IDEA:
+	-中文语言包
+	-捆绑插件
+	-Java Decompiler
+	-IdeaVim（在家目录下创建.ideavimrc配置文件）
+	-Tabnine
+	-Rainbow Brackets
+Pycharm:
+	-中文语言包
+	-捆绑插件
+	-IdeaVim（在家目录下创建.ideavimrc配置文件）
+	-Tabnine
+	-Rainbow Brackets
