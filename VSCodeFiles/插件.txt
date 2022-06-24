@@ -79,3 +79,4 @@
 -Python Preview
 -Python Type Hint
 -LiveCode for python
+-Git Graph
