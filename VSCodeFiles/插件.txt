@@ -24,6 +24,7 @@
 -Bookmarks
 -Google Translate by Hancel.Lin（汉译英&英译汉，alt+shift+T或alt+ctrl+T翻译）
 -Git History
+-Git Graph
 -CODELF（取变量名）
 -Comment Translate（注释翻译）
 -Better Comments
@@ -79,4 +80,3 @@
 -Python Preview
 -Python Type Hint
 -LiveCode for python
--Git Graph
