@@ -49,12 +49,12 @@
     "workbench.editor.untitled.hint": "hidden",
     "workbench.sideBar.location": "left",
     "workbench.iconTheme": "material-icon-theme", //文件图标主题：material-icon-theme，需下载
-    "workbench.colorTheme": "One Dark Pro", //颜色主题（深）：One Dark Pro，需下载；颜色主题（浅）：Monokai Light，需下载
+    "workbench.colorTheme": "One Dark Pro", //颜色主题（深）：One Dark Pro，需下载
     "workbench.startupEditor": "none", //启动时显示欢迎页
     //以上为工作区设置
     "git.confirmSync": false,
-    "cmake.cmakePath": "C:\\Program Files\\CMake\\bin\\cmake.exe", //cmake.exe路径
-    "cmake.generator": "C:\\Program Files\\CMake\\bin\\cmake.exe", //cmake生成器路径
+    "cmake.cmakePath": "D:\\msys64\\mingw64\\bin\\cmake.exe", //cmake.exe路径
+    "cmake.generator": "D:\\msys64\\mingw64\\bin\\cmake.exe", //cmake生成器路径
     "gitlens.advanced.messages": {
         "suppressImproperWorkspaceCasingWarning": true
     },
