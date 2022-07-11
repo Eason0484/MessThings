@@ -1,1 +1,0 @@
-AutoQuit.ahk: 按U自动退出
