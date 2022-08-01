@@ -40,7 +40,7 @@
 -Path Intellisense // 路径补全
 -Vim // vim模式
 -shell-format // shell脚本格式化
--AutoHotKey // AutoHotKey脚本支持
+-AutoHotKey Plus Plus // AutoHotKey脚本支持
 -Markdown All in One
 -markdownlint // Markdown语法检查器
 -Markdown Preview Mermaid Support // Markdown绘图工具Mermaid支持
