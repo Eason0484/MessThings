@@ -85,3 +85,7 @@
 91. MineMap
 92. Ninjabrain-bot
 93. WePE
+94. ImageGlass (照片查看器)
+95. JPEGview
+96. Honeyview
+97. Windows自带图片管理器
