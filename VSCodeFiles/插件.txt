@@ -1,6 +1,5 @@
 -C/C++
 -C/C++ Compile Run
--C++ Intellisense
 -Chinese (Simplified) Language Pack for Visual Studio Code
 -Code Runner
 -Indent-rainbow //缩进深度显示
