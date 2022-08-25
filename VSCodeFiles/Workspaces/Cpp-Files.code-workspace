@@ -1,10 +1,8 @@
 {
     "folders": [
         {
+            "name": "Cpp-Files",
             "path": "..\\..\\..\\Cpp-Files"
-        },
-        {
-            "path": "..\\..\\..\\Excellent-Projects-in-Github"
         }
     ],
     "settings": {
@@ -115,7 +113,10 @@
             "xstring": "cpp",
             "typeindex": "cpp",
             "*.def": "c",
-            "*.inc": "cpp"
+            "*.inc": "cpp",
+            "expected": "cpp",
+            "spanstream": "cpp",
+            "stacktrace": "cpp"
         }
     }
 }
