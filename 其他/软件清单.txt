@@ -89,5 +89,5 @@
 95. JPEGview
 96. Honeyview
 97. Windows自带图片管理器
-98. IObit Uninstaller
-99. ClipChamp
+98. IObit Uninstaller及其配套软件
+99. ClipChamp（剪辑）
