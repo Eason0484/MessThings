@@ -89,9 +89,15 @@
 95. JPEGview
 96. Honeyview
 97. Windows自带图片管理器
-98. IObit Uninstaller及其配套软件（如Smart Defrag）
+98. IObit系列：
+      IObit Uninstaller
+      Smart Defrag（硬盘整理）
+      Driver Booster（驱动更新）
 99. ClipChamp（剪辑）
 100. WizTree（磁盘分析）
 101. VeraCrypt（文件加密软件）
 102. PGP（或PGP Desktop）（文件加密软件）
 103. EncFS（文件加密软件）
+104. Puran File Recovery（数据恢复软件）
+105. Recuva（数据恢复软件）
+106. Fences（桌面整理软件）
