@@ -93,3 +93,5 @@
 99. ClipChamp（剪辑）
 100. WizTree（磁盘分析）
 101. VeraCrypt（文件加密软件）
+102. PGP（或PGP Desktop）（文件加密软件）
+103. EncFS（文件加密软件）
