@@ -89,5 +89,6 @@
 95. JPEGview
 96. Honeyview
 97. Windows自带图片管理器
-98. IObit Uninstaller及其配套软件
+98. IObit Uninstaller及其配套软件（如Smart Defrag）
 99. ClipChamp（剪辑）
+100. WizTree（磁盘分析）
