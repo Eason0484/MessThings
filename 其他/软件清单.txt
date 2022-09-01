@@ -1,4 +1,4 @@
- 1. 7zip
+1. 7zip（压缩、解压缩、加密软件）
 2. BBDown
 4. CCleaner
 5. Dism++
@@ -92,3 +92,4 @@
 98. IObit Uninstaller及其配套软件（如Smart Defrag）
 99. ClipChamp（剪辑）
 100. WizTree（磁盘分析）
+101. VeraCrypt（文件加密软件）
