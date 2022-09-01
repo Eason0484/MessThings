@@ -100,5 +100,6 @@
 103. EncFS（文件加密软件）
 104. Puran File Recovery（数据恢复软件）
 105. Recuva（数据恢复软件）
-106. Fences（桌面整理软件）
-107. DiskGenius（多功能硬盘工具）
+106. R-Studio（数据恢复软件）
+107. Fences（桌面整理软件）
+108. DiskGenius（多功能硬盘工具）
