@@ -91,7 +91,7 @@
 97. Windows自带图片管理器
 98. IObit系列：
       IObit Uninstaller
-      Smart Defrag（硬盘整理）
+      Smart Defrag（机械硬盘碎片整理，固态硬盘千万不要使用）
       Driver Booster（驱动更新）
 99. ClipChamp（剪辑）
 100. WizTree（磁盘分析）
@@ -103,3 +103,7 @@
 106. R-Studio（数据恢复软件）
 107. Fences（桌面整理软件）
 108. DiskGenius（多功能硬盘工具）
+109. 碎片整理和优化驱动器（系统自带机械硬盘碎片整理，固态硬盘千万不要使用）
+110. 磁盘清理（系统自带硬盘清理软件）
+111. ScreenToGif（Gif录制软件）
+112. QuickLook（空格键速览）
