@@ -61,7 +61,8 @@
 69. 网易有道词典
 70. LiveSplit
 71. MimeMap
-72. Ninjabrain-bot
+72. Ninjabrain-bot（1.9+要塞计算器）
+      ContariaCalc（Pre1.9要塞计算器）
 73. Ninjasnail-Timer
 74. CTM's AA Tool
 75. Cubiomes-Viewer
