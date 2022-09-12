@@ -78,6 +78,7 @@
 83. Visual Studio
 84. Pycharm
 85. Anaconda
+      Miniconda（推荐）
 86. Jupyter Notebook
 87. NBTExplorer
 88. Android Debug Bridge（ADB）
