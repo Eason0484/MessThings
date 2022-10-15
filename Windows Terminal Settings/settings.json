@@ -1,8 +1,11 @@
 {
+    "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "actions": [
+    "actions": 
+    [
         {
-            "command": {
+            "command": 
+            {
                 "action": "copy",
                 "singleLine": false
             },
@@ -17,7 +20,8 @@
             "keys": "ctrl+shift+f"
         },
         {
-            "command": {
+            "command": 
+            {
                 "action": "splitPane",
                 "split": "auto",
                 "splitMode": "duplicate"
@@ -27,62 +31,79 @@
     ],
     "copyFormatting": "none",
     "copyOnSelect": false,
-    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "defaultProfile": "{b66fd0e6-fd9b-46a3-8fa5-11c91184a627}",
     "initialCols": 90,
     "initialRows": 27,
-    "profiles": {
-        "defaults": {
-            "acrylicOpacity": 0.40000000000000002,
-            "font": {
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "font": 
+            {
                 "face": "DejaVu Sans Mono for Powerline",
                 "size": 16
             },
+            "opacity": 40,
             "useAcrylic": true
         },
-        "list": [
+        "list": 
+        [
             {
-                "commandline": "powershell.exe",
-                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "altGrAliasing": true,
+                "antialiasingMode": "grayscale",
+                "closeOnExit": "automatic",
+                "colorScheme": "Campbell",
+                "commandline": "D:\\Program Files\\PowerShell\\7\\pwsh.exe",
+                "cursorShape": "bar",
+                "guid": "{b66fd0e6-fd9b-46a3-8fa5-11c91184a627}",
                 "hidden": false,
-                "name": "Windows PowerShell"
-            },
-            {
-                "commandline": "cmd.exe",
-                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
-                "hidden": false,
-                "name": "\u547d\u4ee4\u63d0\u793a\u7b26"
-            },
-            {
-                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-                "hidden": false,
-                "name": "Azure Cloud Shell",
-                "source": "Windows.Terminal.Azure"
-            },
-            {
-                "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
-                "hidden": false,
-                "name": "Git Bash",
-                "source": "Git"
+                "historySize": 9001,
+                "icon": "ms-appx:///ProfileIcons/{61c54bbd-c2c6-5271-96e7-009a87ff44bf}.png",
+                "name": "Windows PowerShell 7",
+                "padding": "8, 8, 8, 8",
+                "snapOnInput": true,
+                "startingDirectory": "%USERPROFILE%"
             },
             {
                 "commandline": "D:\\msys64\\msys2_shell.cmd -mingw64 -full-path -shell zsh -no-start -defterm",
-                "guid": "{526910e8-fea7-43b3-83d8-37cd0ed762be}",
+                "guid": "{be8c2482-747a-4f51-b13f-1d4393f1888e}",
+                "hidden": false,
                 "icon": "D:/Program Files/Git/mingw64/share/git/git-for-windows.ico",
                 "name": "Zsh",
                 "startingDirectory": "%USERPROFILE%",
                 "tabTitle": "Zsh"
             },
             {
-                "colorScheme": "Campbell",
-                "commandline": "wsl.exe -d Ubuntu",
-                "guid": "{37ead6c5-55df-4c07-8bb5-673fce0fe20f}",
-                "icon": "ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png",
-                "name": "Ubuntu",
+                "commandline": "D:/Program Files/Git/bin/bash.exe -i -l",
+                "guid": "{d66100e9-7c01-4530-b43c-d5482b7673db}",
+                "hidden": false,
+                "icon": "D:/Program Files/Git/mingw64/share/git/git-for-windows.ico",
+                "name": "Git Bash",
                 "startingDirectory": "%USERPROFILE%"
+            },
+            {
+                "colorScheme": "Vintage",
+                "connectionType": "{d9fcfdfa-a479-412c-83b7-c5640e61cd62}",
+                "guid": "{14133925-7be7-4f34-82ab-3e0ba29bfa3b}",
+                "hidden": false,
+                "icon": "ms-appx:///ProfileIcons/{b453ae62-4e3d-5e58-b989-0a998ec441b8}.png",
+                "name": "Azure Cloud Shell",
+                "startingDirectory": "%USERPROFILE%"
+            },
+            {
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Command Prompt"
+            },
+            {
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell"
             }
         ]
     },
-    "schemes": [
+    "schemes": 
+    [
         {
             "background": "#0C0C0C",
             "black": "#0C0C0C",
@@ -266,6 +287,29 @@
             "selectionBackground": "#FFFFFF",
             "white": "#D3D7CF",
             "yellow": "#C4A000"
+        },
+        {
+            "background": "#300A24",
+            "black": "#171421",
+            "blue": "#0037DA",
+            "brightBlack": "#767676",
+            "brightBlue": "#08458F",
+            "brightCyan": "#2C9FB3",
+            "brightGreen": "#26A269",
+            "brightPurple": "#A347BA",
+            "brightRed": "#C01C28",
+            "brightWhite": "#F2F2F2",
+            "brightYellow": "#A2734C",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#3A96DD",
+            "foreground": "#FFFFFF",
+            "green": "#26A269",
+            "name": "Ubuntu-22.04-ColorScheme",
+            "purple": "#881798",
+            "red": "#C21A23",
+            "selectionBackground": "#FFFFFF",
+            "white": "#CCCCCC",
+            "yellow": "#A2734C"
         },
         {
             "background": "#000000",
