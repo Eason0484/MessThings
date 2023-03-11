@@ -4,7 +4,7 @@ BleachBit（垃圾清理）
 Dism++
 Everything
 Foobar2000（推荐中文汉化版）
-git
+Git
 HEU-KMS-Activator
 HotPE
 MinGW-w64（推荐MSYS2下载或https://winlibs.com/下载或官网下载）（注意：mingw64\bin中的mingw32-make.exe文件请复制一份并重命名为make.exe）
