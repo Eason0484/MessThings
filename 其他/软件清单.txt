@@ -1,115 +1,177 @@
-1. 7zip（压缩、解压缩、加密软件）
-2. BBDown
-4. BleachBit（垃圾清理）
-5. Dism++
-6. Everything
-7. Foobar2000（推荐中文汉化版）
-9. git
-10. HEU-KMS-Activator
-11. HotPE
-12. MinGW-w64（推荐MSYS2下载或https://winlibs.com/下载或官网下载）（注意：mingw64\bin中的mingw32-make.exe文件请复制一份并重命名为make.exe）
-13. Office Tool
-14. PotPlayer
-16. RAMMap
-17. Snipaste
-18. SpaceSniffer
-19. Markdown工具：Obsidian or Joplin or Zettlr
-20. Uninstall Tool
-21. 香蕉加速
-22. 多快加速器
-23. Windows10 Manager/Windows11 Manager
-24. Wox
-25. XDM
-26. Captura（开源视频录制）
-27. 腾讯桌面整理独立版
-31. Edge浏览器
-32. FireFox火狐浏览器
-33. Google谷歌浏览器
-34. 火绒
-35. 微信
-36. 网易邮箱大师
-37. 网易云音乐
-38. 图吧工具箱
-39. CMake
-40. Vim（gVim）
-41. Windows Terminal（第三方下载或微软商店下载均可）
-42. 虚拟机：Hyper-v or Vitual Box or VMWare
-43. 微软输入法
-44. 福昕阅读器
-45. Fiddler
-48. Steam++
-49. Xshell & Xftp（免费非商业版：https://www.xshell.com/zh/free-for-home-school/）
-50. 阿里云盘
-51. Ranger or Krusader or Nautilus（linux文件管理器）
-52. HMCL or PCL2 or BakaXL or MultiMC（Minecraft启动器）
-53. 阿里云
-54. CMManager右键管理
-55. OBS录屏
-56. StartAllBack--Win11美化
-57. Ventoy--启动盘制作工具
-58. 微PE工具箱
-59. Mem Reduct内存清理
-60. 小鱼儿yr系统封装优化设置辅助工具
-61. LabyMod（MCpvp客户端）
-62. VSCode
-63. FxSound
-64. XMind
-65. IDEA（自带反编译工具java-decompiler.jar）
-66. qBittorrent（种子下载）
-67. 赛风VPN
-68. Bandicam
-69. 网易有道词典
-70. LiveSplit
-71. MimeMap
-72. Ninjabrain-bot（1.9+要塞计算器）
-      ContariaCalc（Pre1.9要塞计算器）
-73. Ninjasnail-Timer
-74. CTM's AA Tool
-75. Cubiomes-Viewer
-76. Shotcut（开源视频剪辑）
-77. GIMP（开源图像编辑）
-78. HandBrake（开源视频压缩）
-79. Aegisub（开源字幕编辑）
-80. GeoGebra & Desmos（免费数学绘图软件）
-81. Discord & YY & 开黑啦（连麦）
-82. MuseScore（免费打谱软件）
+7zip（压缩、解压缩、加密软件）
+BBDown
+BleachBit（垃圾清理）
+Dism++
+Everything
+Foobar2000（推荐中文汉化版）
+git
+HEU-KMS-Activator
+HotPE
+MinGW-w64（推荐MSYS2下载或https://winlibs.com/下载或官网下载）（注意：mingw64\bin中的mingw32-make.exe文件请复制一份并重命名为make.exe）
+Office Tool Plus
+PotPlayer
+RAMMap
+Snipaste
+SpaceSniffer
+Markdown工具：Obsidian or Joplin or Zettlr
+Geek Uninstaller
+香蕉加速
+多快加速器
+Windows10 Manager/Windows11 Manager
+Wox
+Neat Download Manager (NDM)
+Captura（开源视频录制）
+腾讯桌面整理独立版
+浏览器：
+    Firefox ESR（主力）
+    Edge DEV（同步+备用）
+    Chrome（备用）
+火绒
+微信
+网易邮箱大师
+网易云音乐
+图吧工具箱
+CMake
+Vim(NeoVim)
+Windows Terminal（第三方下载或微软商店下载均可）
+虚拟机：Hyper-v or Vitual Box or VMWare
+微软输入法
+福昕阅读器
+Fiddler
+Steam++
+Xshell & Xftp（免费非商业版：https://www.xshell.com/zh/free-for-home-school/）
+阿里云盘
+Ranger or Krusader or Nautilus or Dolphin（linux文件管理器）
+官启 or MultiMC or HMCL or PCL2（Minecraft启动器）
+阿里云
+CMManager右键管理
+OBS录屏
+StartAllBack--Win11美化
+Ventoy--启动盘制作工具
+微PE工具箱
+Mem Reduct内存清理
+小鱼儿yr系统封装优化设置辅助工具
+LabyMod（MCpvp客户端）
+VSCode
+FxSound
+XMind
+IDEA（自带反编译工具java-decompiler.jar）
+qBittorrent（种子下载）
+赛风VPN
+Bandicam
+网易有道词典
+LiveSplit
+MimeMap
+Ninjabrain-bot（1.9+要塞计算器）
+ContariaCalc（Pre1.9要塞计算器）
+Ninjasnail-Timer
+CTM's AA Tool
+Cubiomes-Viewer
+Shotcut（开源视频剪辑）
+GIMP（开源图像编辑）
+HandBrake（开源视频压缩）
+Aegisub（开源字幕编辑）
+GeoGebra & Desmos（免费数学绘图软件）
+Discord & YY & KOOK（连麦）
+MuseScore（免费打谱软件）
 	高级模式：视图--工作区--高级
 	基础模式：视图--工作区--基础
-83. Visual Studio
-84. Pycharm
-85. Anaconda
-      Miniconda（推荐）
-86. Jupyter Notebook
-87. NBTExplorer
-88. Android Debug Bridge（ADB）
-89. WSA Tool Box
-90. FFmpeg
-91. MineMap
-92. Ninjabrain-bot
-93. WePE
-94. ImageGlass (照片查看器)
-95. JPEGview
-96. Honeyview
-97. Windows自带图片管理器
-98. IObit系列：
-      IObit Uninstaller
-      Smart Defrag（机械硬盘碎片整理，固态硬盘千万不要使用）
-      Driver Booster（驱动更新）
-99. ClipChamp（剪辑）
-100. WizTree（磁盘分析）
-101. VeraCrypt（文件加密软件）
-102. PGP（或PGP Desktop）（文件加密软件）
-103. EncFS（文件加密软件）
-104. Puran File Recovery（数据恢复软件）
-105. Recuva（数据恢复软件）
-106. R-Studio（数据恢复软件）
-107. Fences（桌面整理软件）
-108. DiskGenius（多功能硬盘工具）
-109. 碎片整理和优化驱动器（系统自带机械硬盘碎片整理，固态硬盘千万不要使用）
-110. 磁盘清理（系统自带硬盘清理软件）
-111. ScreenToGif（Gif录制软件）
-112. QuickLook（空格键速览）
-113. 佛跳墙（梯子）
-114. Discord
-115. MT管理器（安卓文件管理器）
-116. PowerShell
+Visual Studio
+Pycharm
+Anaconda
+Miniconda（推荐）
+Jupyter Notebook
+NBTExplorer
+Android Debug Bridge（ADB）
+WSA Tool Box
+FFmpeg
+MineMap
+Ninjabrain-bot
+WePE
+ImageGlass (照片查看器)
+JPEGview
+Honeyview
+Windows自带图片管理器
+ClipChamp（剪辑）
+WizTree（磁盘分析）
+VeraCrypt（文件加密软件）
+PGP（或PGP Desktop）（文件加密软件）
+EncFS（文件加密软件）
+Puran File Recovery（数据恢复软件）
+Recuva（数据恢复软件）
+R-Studio（数据恢复软件）
+Fences（桌面整理软件）
+DiskGenius（多功能硬盘工具）
+碎片整理和优化驱动器（系统自带机械硬盘碎片整理，固态硬盘千万不要使用）
+磁盘清理（系统自带硬盘清理软件）
+ScreenToGif（Gif录制软件）
+QuickLook（空格键速览）
+佛跳墙（梯子）
+Discord
+MT管理器（安卓文件管理器）
+PowerShell
+Evince(Linux PDF)
+Okular(Linux PDF)
+LibreOffice(Linux)
+Minesweeper Arbiter（扫雷）
+Process lasso
+TianruoOCR
+Foxmail
+Outlook
+VoiceMeeter Banana（虚拟声卡）
+Aurora（极光）VPN
+Draw.io
+Microsoft便笺
+Aegisub（字幕）
+DivXLand Media Subtitler（字幕）
+Jubler Subtitle Εditor（字幕）
+Subtitle Edit（字幕）
+DaVinci Resolve（达芬奇）（剪辑+特效）
+Natron（特效）
+Blender（三维建模）
+Kdenlive（剪辑）
+Flowblade（Linux）（剪辑）
+Audacity（音频编辑）
+Openshot（剪辑）
+KVM虚拟机
+小黑盒/UU加速器
+watt toolkit
+Groove
+Skype
+WSL
+WSA
+Windows计算器
+酷安（安卓软件市场）
+Powershell
+ClientCommands
+AutoHotKey
+桌面环境/窗口管理器：
+    i3wm
+    dwm
+    Gnome
+    KDE
+    Xfce
+    LXDE
+    LXQT
+    Cinnamon
+    MATE
+Ranger
+VLC
+Krita
+Firefox
+网易MuMu模拟器
+CheatEngine（内存修改器）
+ZZ加速器（https://zzjiasuqi.com/）
+Notepad--
+OpenJDK (https://openjdk.org/)
+Adoptium OpenJDK (https://adoptium.net/)
+PVZ (https://pvz-beta.site/)
+Parsec TeamViewer ToDesk RustDesk AnyDesk 向日葵（远程控制，RustDesk开源）
+Termux (Android Software)
+QQ（或TIM）（沙盒运行）
+沙盒工具：
+    Sandboxie (Classic)
+    Sandboxie Plus
+Alist （网盘整合工具）
+RaiDrive（网盘映射本地）
+Thunderbird（邮箱客户端）

@@ -1,2 +1,0 @@
-mingw64\bin中的mingw32-make.exe文件请更名为make.exe
-

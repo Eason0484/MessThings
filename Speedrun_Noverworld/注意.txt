@@ -1,2 +1,0 @@
-此为noverworld模组的配置
-存到 实例文件夹\config 下

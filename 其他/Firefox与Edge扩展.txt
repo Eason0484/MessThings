@@ -1,0 +1,3 @@
+Auto Tab Discard（标签页自动休眠）
+AdGuard or uBlock Origin（广告拦截器）
+User-Agent Switcher and Manager（UA切换）
