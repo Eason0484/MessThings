@@ -176,4 +176,5 @@ Alist （网盘整合工具）
 RaiDrive（网盘映射本地）
 Thunderbird（邮箱客户端）
 Docker
+ConEmu
 Cmder
